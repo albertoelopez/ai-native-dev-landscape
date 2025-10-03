@@ -2231,7 +2231,7 @@ domains:
         and cross-platform support for Windows, macOS, and Linux. Extensible architecture
         with a rich extension ecosystem.
       icon_url: ''
-      name: AINative Studio
+      name: AINative Studio IDE
       oss: true
       popular: false
       tags:
