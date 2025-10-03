@@ -2230,7 +2230,7 @@ domains:
         generation, and chat assistant. Features advanced code navigation, refactoring,
         and cross-platform support for Windows, macOS, and Linux. Extensible architecture
         with a rich extension ecosystem.
-      icon_url: ''
+      icon_url: https://raw.githubusercontent.com/AINative-Studio/AINativeStudio-IDE/main/ainative-studio/ai_native_studio_icons/ai_native_studio_48x48.png
       name: AINative Studio
       oss: true
       popular: false
