@@ -2250,7 +2250,7 @@ domains:
       - Editor
       - Code
       verified: false
-      website_url: https://www.ainative.studio/download
+      website_url: https://github.com/AINative-Studio/AINativeStudio-IDE
   - description: Specialized in Frontend and Mobile code generation
     level: 6
     name: Frontend & Mobile
